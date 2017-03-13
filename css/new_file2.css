@@ -1,0 +1,4 @@
+#main{width:800px;height: 100%;margin: 0 auto;border:1px solid;}
+#rectangle{width:400px;height: 200px;margin: 200px auto;background-color: #eee;}
+#sector1_1{border-radius: 50px;background-color: #fc0;position: absolute;top: 159px;left: 319px;width: 100px;height: 100px;clip:rect(0px 50px 50px 0px);transform: rotate(180deg);}
+#sector1_2{border-radius: 50px;background-color: #fc0;position: absolute;top: 359px;left: 718px;width: 100px;height: 100px;clip:rect(0px 50px 50px 0px);}
